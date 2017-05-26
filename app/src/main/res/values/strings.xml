@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TestGallery</string>
+
+    <string name="new_img">Foto</string>
+    <string name="new_name">Nome</string>
+    <string name="new_date">Data</string>
+
+</resources>
